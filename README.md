@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning web developing and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-	- LinkedIn:   https://www.linkedin.com/in/liam-simons-419466204/
-	- Facebook:   https://www.facebook.com/simons.liam
-	- Email:      simons.liam@live.be
+	- LinkedIn:	https://www.linkedin.com/in/liam-simons-419466204/
+	- Facebook:	https://www.facebook.com/simons.liam
+	- Email:	simons.liam@live.be
 
 <!---
 LiamSimons/LiamSimons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
