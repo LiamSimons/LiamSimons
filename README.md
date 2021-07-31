@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web developing and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-	- LinkedIn:	https://www.linkedin.com/in/liam-simons-419466204/
+	- LinkedIn:	https://www.linkedin.com/in/Liam-Simons/
 	- Facebook:	https://www.facebook.com/simons.liam
 	- Email:	simons.liam@live.be
 
