@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiamSimons
 - 👀 I’m interested in game developing, c, java, and python programming
-- 🌱 I’m currently learning web developing and javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web developing, mainly Angular
+- 💞️ I’m looking to collaborate on any fun project
 - 📫 How to reach me:
 	- LinkedIn:	https://www.linkedin.com/in/Liam-Simons/
 	- Facebook:	https://www.facebook.com/simons.liam
